@@ -1,12 +1,12 @@
 # KIỂM ĐỊNH PHẦN MỀM NHÓM 5
 # ĐỀ TÀI: Website Bán Hàng Thời Trang Bằng NodeJs và ExPress
 <h3>Thành Viên</h3>
-1.Võ Duy Tuấn (Nhóm Trưởng)<br>
+<h6>1. Võ Duy Tuấn (Nhóm Trưởng)</h6><br>
 2. Hoàng Anh Bảo<br>
 3. Nguyễn Thùy Linh<br>
 4. Phạm Văn Đức<br>
 5. Nguyễn Đình Tín<br>
-6. Lê Ngọc Nghĩa<br>
+6. Lê N1. gọc Nghĩa<br>
 7. Lê Nguyễn Bảo Sơn<br>
 8. Mai Xuân Bình Minh<br>
 9. Nguyễn Văn Thuần<br>
