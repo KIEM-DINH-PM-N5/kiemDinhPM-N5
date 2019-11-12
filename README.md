@@ -4,10 +4,10 @@
 <h6>1. Võ Duy Tuấn (Nhóm Trưởng)</h6>
 2. Hoàng Anh Bảo<br>
 3. Nguyễn Thùy Linh<br>
-4. Phạm Văn Đức<br>
+4.  Lê Ngọc Nghĩa<br>
 5. Nguyễn Đình Tín<br>
-6. Lê Ngọc Nghĩa<br>
+6. Phạm Văn Đức<br>
 7. Lê Nguyễn Bảo Sơn<br>
 8. Mai Xuân Bình Minh<br>
-9. Nguyễn Văn Thuần<br>
+9. Nguyễn Văn Thuận<br>
 10. Nguyễn Thị Như Ý<br>
